@@ -1,6 +1,13 @@
-MIT License
+# LICENSE (MIT)
+# Лицензия MIT
 
-Copyright (c) 2026 Flowseal
+The MIT License (MIT) / Лицензия MIT
+=====================================
+
+**English Version**
+
+Copyright (c) 2026 Flowseal (original author)
+Copyright (c) 2026 K0LbAzzeR (forker)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -17,5 +24,27 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+---
+
+**Русская версия**
+
+Авторские права (с) 2026 Flowseal (оригинальный автор)
+Авторские права (с) 2026 K0LbAzzeR (форкер)
+
+Настоящим предоставляется разрешение безвозмездно любому лицу, получившему копию
+данного программного обеспечения и сопутствующих файлов документации (далее — «Программное обеспечение»),
+обрабатывать Программное обеспечение без ограничений, включая, без ограничения, права
+на использование, копирование, изменение, объединение, публикацию, распространение, предоставление сублицензий и/или продажу
+копий Программного обеспечения, а также разрешать лицам, которым предоставляется Программное обеспечение,
+делать это при соблюдении следующих условий:
+
+Вышеуказанное уведомление об авторских правах и данное уведомление о разрешении должны быть включены во все
+копии или существенные части Программного обеспечения.
+
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ
+ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ГАРАНТИИ ТОВАРНОЙ ПРИГОДНОСТИ,
+ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ ПРАВ. НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ АВТОРЫ ИЛИ ВЛАДЕЛЬЦЫ АВТОРСКИХ ПРАВ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА
+ЛЮБЫЕ ПРЕТЕНЗИИ, УЩЕРБ ИЛИ ИНУЮ ОТВЕТСТВЕННОСТЬ, ВОЗНИКШУЮ ИЗ, В СВЯЗИ С ИЛИ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ В ХОДЕ ИНЫХ СДЕЛОК С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.
