@@ -40,7 +40,8 @@ CFPROXY_DEFAULT_DOMAINS: List[str] = [_dd(d) for d in _CFPROXY_ENC]
 class ProxyConfig:
     port: int = 1443
     host: str = '127.0.0.1'
-    secret: str = field(default_factory=lambda: os.urandom(16).hex())
+    #secret: str = field(default_factory=lambda: os.urandom(16).hex())
+    secret: str = 'b37989af0db1b25d8546d5f4d7107f73'
     dc_redirects: Dict[int, str] = field(default_factory=lambda: {2: '149.154.167.220', 4: '149.154.167.220'})
     buffer_size: int = 256 * 1024
     pool_size: int = 4
